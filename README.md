@@ -1,3 +1,3 @@
-# py-template
+# em-dash-analysis
 
-Python template for small projects.
+Code for analysing em-dash frequency in large text datasets.

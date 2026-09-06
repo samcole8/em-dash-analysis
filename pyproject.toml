@@ -1,0 +1,13 @@
+[project]
+name = "em-dash-analysis"
+version = "0.0.0"
+description = "Infrastructure Contracts Engine"
+readme = "README.md"
+requires-python = ">=3.14.7"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+eda = "em_dash_analysis.main:main"
